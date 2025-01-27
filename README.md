@@ -17,8 +17,8 @@ A Streamlit-based web application that uses Google's Gemini AI and browser autom
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tourist-information-assistant.git
-cd tourist-information-assistant
+git clone https://github.com/kanwar19031/Travel-Agent
+cd Travel-Agent
 ```
 
 2. Create and activate a virtual environment:
