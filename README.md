@@ -102,32 +102,4 @@ This project uses the [browser-use](https://github.com/browser-use/browser-use) 
   publisher = {GitHub},
   url = {https://github.com/browser-use/browser-use}
 }
-```
-
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
-## Troubleshooting
-
-1. **Browser Issues**:
-   - Make sure Playwright is installed correctly
-   - Try running in non-headless mode for debugging
-   - Check if you have sufficient system resources
-
-2. **API Issues**:
-   - Verify your Gemini API key is correct
-   - Check your internet connection
-   - Ensure you're not exceeding API rate limits
-
-3. **Common Errors**:
-   - "No module named 'browser_use'": Run `pip install browser-use`
-   - Playwright errors: Run `playwright install` again
-   - Memory issues: Close other applications or increase available memory
-
-## Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/tourist-information-assistant/issues) section
-2. Create a new issue with detailed information about your problem
-3. Join the [browser-use Discord](https://link.browser-use.com/discord) for community support 
+``` 
