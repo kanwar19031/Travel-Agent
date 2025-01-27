@@ -1,0 +1,28 @@
+Tourist Information Search
+Location: Delhi
+Category: weather
+Time: 2025-01-28 00:42:14
+
+Current Weather in Delhi:
+- The current temperature is 24°C and sunny.
+- Humidity is 43% and wind is 8 km/h.
+
+3-Day Forecast:
+- Tue: Sunny, 24°C/11°C
+- Wed: Partly Cloudy, 23°C/11°C
+- Thu: Sunny, 24°C/11°C
+
+Best Time to Visit:
+- October and November are pleasant.
+- Winters start in November, peaking in January (around 14°C).
+- Monsoon arrives by June 28.
+
+Seasonal Considerations:
+- Delhi winters can have cold waves.
+- Monsoon brings warm and humid weather in July and August.
+
+What to Pack:
+- Based on the current weather, pack light clothing for the day and a light jacket for the evening.
+
+Weather Warnings or Advisories:
+-  Moderate fog is expected to reduce visibility.

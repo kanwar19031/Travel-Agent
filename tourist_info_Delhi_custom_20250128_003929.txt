@@ -1,0 +1,13 @@
+Tourist Information Search
+Location: Delhi
+Category: custom
+Time: 2025-01-28 00:40:39
+
+Delhi Metro timings:
+
+- Typically, Delhi Metro services start after 5:00 AM and continue until 11:30 PM.
+- On Republic Day (Jan 26, 2025), services will start at 3:00 AM with trains every 30 minutes until 6:00 AM, after which regular schedule will resume.
+- The airport line runs from 4:45 to 23:30, and line 1 from 05:30 onwards.
+- The Blue Line operates from 5:30 AM till 11:30 PM.
+- Delhi Metro is generally punctual with over 99.96% punctuality.
+
